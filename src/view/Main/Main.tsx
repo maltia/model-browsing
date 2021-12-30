@@ -1,8 +1,8 @@
 import React from 'react';
 import logo from 'logo.svg';
-import styles from  './App.module.css';
+import styles from  './Main.module.css';
 
-function App() {
+function Main() {
   return (
     <div className={styles.App}>
       <header className={styles.AppHeader}>
@@ -23,4 +23,4 @@ function App() {
   );
 }
 
-export default App;
+export default Main;
