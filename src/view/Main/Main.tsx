@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from  './Main.module.css';
-import SampleBox from 'components/SampleBox/SampleBox';
+import SampleBox from 'components/Sample/SampleBox';
 import { Canvas } from 'react-three-fiber';
 import Controls from 'components/Controls/Controls';
 
